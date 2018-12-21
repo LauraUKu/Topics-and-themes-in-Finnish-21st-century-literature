@@ -45,3 +45,5 @@ CRITICAL ANALYSIS
 Some of the index words did not have information about the original language or the year of publishing, which excluded about 10 700 objects from the language and the year comparison. It is also necessary to point out that some of the topics and themes in the datasets were distributed to different index terms even though they could be grouped as one (ex. “ystävät”/”ystävyys”, “perhe-elämä”/”perheet”/”äidit”/”isät”/”sisarukset” etc.). This most likely has caused some bias in the results. For the future, it would be interesting to further categorize coherent groups of themes. 
 
 What comes to the research question of the most common topics/themes in Finnish literature, this type of data with index words is always somewhat biased. Different books have different amounts of metadata, the terms are subjectively chosen by someone, and something is often left out. With a dataset as large as this, also the cleaning process is more difficult, which means that the data might still have some index terms that should not be categorized as topics or themes. 
+
+DOI: 10.5281/zenodo.2484891
