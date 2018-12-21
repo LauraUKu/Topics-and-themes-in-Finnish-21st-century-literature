@@ -1,1 +1,1 @@
-cell.cross("kirjat csv", "ft")[0].cells["vuosi"].value
+cell.cross("kirjat.csv", "ft")[0].cells["vuosi"].value
