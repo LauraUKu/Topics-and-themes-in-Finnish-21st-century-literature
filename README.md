@@ -1,4 +1,4 @@
-THE MOST COMMON TOPICS AND THEMES IN FINNISH LITERATURE PULISHED IN THE 21ST CENTURY
+THE MOST COMMON TOPICS AND THEMES IN FINNISH LITERATURE PUBLISHED IN THE 21ST CENTURY
 (FROM KIRJASAMPO.COM)
 
 This project is an analysis on the most common topics and themes appearing in the metadata of Finnish (language) literary fiction published in the 21st century so far. It is done by analysing the most common index terms associated to the literature. The goal was to find the overall most popular topics/themes for the last two decades, but also to compare possible differences between originally Finnish works and translations, as well as to see if there is some significant variation during the years. The data is collected from Kirjasampo.com, the largest Finnish literature webservice that is based on Finnish library collections of fiction and their linked data. 
